@@ -1,0 +1,12 @@
+/Users/Carlo/Desktop/Solucion_Lab5_POO/Solucion_Lab_21_abril/bin/Debug/netcoreapp3.1/Solucion_Lab_21_abril.deps.json
+/Users/Carlo/Desktop/Solucion_Lab5_POO/Solucion_Lab_21_abril/bin/Debug/netcoreapp3.1/Solucion_Lab_21_abril.runtimeconfig.json
+/Users/Carlo/Desktop/Solucion_Lab5_POO/Solucion_Lab_21_abril/bin/Debug/netcoreapp3.1/Solucion_Lab_21_abril.runtimeconfig.dev.json
+/Users/Carlo/Desktop/Solucion_Lab5_POO/Solucion_Lab_21_abril/bin/Debug/netcoreapp3.1/Solucion_Lab_21_abril.dll
+/Users/Carlo/Desktop/Solucion_Lab5_POO/Solucion_Lab_21_abril/bin/Debug/netcoreapp3.1/Solucion_Lab_21_abril.pdb
+/Users/Carlo/Desktop/Solucion_Lab5_POO/Solucion_Lab_21_abril/obj/Debug/netcoreapp3.1/Solucion_Lab_21_abril.csprojAssemblyReference.cache
+/Users/Carlo/Desktop/Solucion_Lab5_POO/Solucion_Lab_21_abril/obj/Debug/netcoreapp3.1/Solucion_Lab_21_abril.csproj.CoreCompileInputs.cache
+/Users/Carlo/Desktop/Solucion_Lab5_POO/Solucion_Lab_21_abril/obj/Debug/netcoreapp3.1/Solucion_Lab_21_abril.AssemblyInfoInputs.cache
+/Users/Carlo/Desktop/Solucion_Lab5_POO/Solucion_Lab_21_abril/obj/Debug/netcoreapp3.1/Solucion_Lab_21_abril.AssemblyInfo.cs
+/Users/Carlo/Desktop/Solucion_Lab5_POO/Solucion_Lab_21_abril/obj/Debug/netcoreapp3.1/Solucion_Lab_21_abril.dll
+/Users/Carlo/Desktop/Solucion_Lab5_POO/Solucion_Lab_21_abril/obj/Debug/netcoreapp3.1/Solucion_Lab_21_abril.pdb
+/Users/Carlo/Desktop/Solucion_Lab5_POO/Solucion_Lab_21_abril/obj/Debug/netcoreapp3.1/Solucion_Lab_21_abril.genruntimeconfig.cache

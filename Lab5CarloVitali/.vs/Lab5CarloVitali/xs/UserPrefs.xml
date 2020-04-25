@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{184B4276-C34D-46E9-8446-BE5178F7DDA0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab5CarloVitali/Program.cs">
+    <Files>
+      <File FileName="Lab5CarloVitali/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab5CarloVitali PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
