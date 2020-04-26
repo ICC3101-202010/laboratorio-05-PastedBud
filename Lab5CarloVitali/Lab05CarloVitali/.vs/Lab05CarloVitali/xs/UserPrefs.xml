@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{6389B65F-AE71-49E5-8B3F-79AD45391539}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="User.cs">
+    <Files>
+      <File FileName="SMSSender.cs" Line="1" Column="1" />
+      <File FileName="Server.cs" Line="1" Column="1" />
+      <File FileName="RegisterEventArgs.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="6" Column="2" />
+      <File FileName="MailSender.cs" Line="11" Column="67" />
+      <File FileName="DataBase.cs" Line="1" Column="1" />
+      <File FileName="ChangePasswordEventArgs.cs" Line="1" Column="1" />
+      <File FileName="User.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab05CarloVitali" expanded="True">
+            <Node name="Lab05CarloVitali" expanded="True">
+              <Node name="User.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Lab05CarloVitali" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab05CarloVitali PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

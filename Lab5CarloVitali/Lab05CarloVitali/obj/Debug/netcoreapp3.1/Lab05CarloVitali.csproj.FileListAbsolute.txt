@@ -1,0 +1,12 @@
+/Users/Carlo/Desktop/laboratorio-05-PastedBud/Lab5CarloVitali/Lab05CarloVitali/bin/Debug/netcoreapp3.1/Lab05CarloVitali.deps.json
+/Users/Carlo/Desktop/laboratorio-05-PastedBud/Lab5CarloVitali/Lab05CarloVitali/bin/Debug/netcoreapp3.1/Lab05CarloVitali.runtimeconfig.json
+/Users/Carlo/Desktop/laboratorio-05-PastedBud/Lab5CarloVitali/Lab05CarloVitali/bin/Debug/netcoreapp3.1/Lab05CarloVitali.runtimeconfig.dev.json
+/Users/Carlo/Desktop/laboratorio-05-PastedBud/Lab5CarloVitali/Lab05CarloVitali/bin/Debug/netcoreapp3.1/Lab05CarloVitali.dll
+/Users/Carlo/Desktop/laboratorio-05-PastedBud/Lab5CarloVitali/Lab05CarloVitali/bin/Debug/netcoreapp3.1/Lab05CarloVitali.pdb
+/Users/Carlo/Desktop/laboratorio-05-PastedBud/Lab5CarloVitali/Lab05CarloVitali/obj/Debug/netcoreapp3.1/Lab05CarloVitali.csprojAssemblyReference.cache
+/Users/Carlo/Desktop/laboratorio-05-PastedBud/Lab5CarloVitali/Lab05CarloVitali/obj/Debug/netcoreapp3.1/Lab05CarloVitali.csproj.CoreCompileInputs.cache
+/Users/Carlo/Desktop/laboratorio-05-PastedBud/Lab5CarloVitali/Lab05CarloVitali/obj/Debug/netcoreapp3.1/Lab05CarloVitali.AssemblyInfoInputs.cache
+/Users/Carlo/Desktop/laboratorio-05-PastedBud/Lab5CarloVitali/Lab05CarloVitali/obj/Debug/netcoreapp3.1/Lab05CarloVitali.AssemblyInfo.cs
+/Users/Carlo/Desktop/laboratorio-05-PastedBud/Lab5CarloVitali/Lab05CarloVitali/obj/Debug/netcoreapp3.1/Lab05CarloVitali.dll
+/Users/Carlo/Desktop/laboratorio-05-PastedBud/Lab5CarloVitali/Lab05CarloVitali/obj/Debug/netcoreapp3.1/Lab05CarloVitali.pdb
+/Users/Carlo/Desktop/laboratorio-05-PastedBud/Lab5CarloVitali/Lab05CarloVitali/obj/Debug/netcoreapp3.1/Lab05CarloVitali.genruntimeconfig.cache

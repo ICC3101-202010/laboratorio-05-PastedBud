@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading;
+using Lab05CarloVitali;
 
 namespace Solucion_Lab_21_abril
 {
@@ -13,6 +14,7 @@ namespace Solucion_Lab_21_abril
             Server server = new Server(database);
             MailSender mailSender = new MailSender();
             SMSSender smsSender = new SMSSender();
+            User user = new User();
 
 
             //Suscribir los que escuchan los eventos
@@ -24,8 +26,10 @@ namespace Solucion_Lab_21_abril
             server.PasswordChanged += mailSender.OnPasswordChanged;
             //3- Suscribir OnCambiadaContrasena de smsSender para que escuche el evento CambiadaContrasena enviado por servidor
             server.PasswordChanged += smsSender.OnPasswordChanged;
-
-
+            //4- Suscribir OnEmailSent de User al evento EmailSent de MailSender
+            mailSender.EmailSent += user.OnEmailSent;
+            //5- Suscribir OnEmailVerified de Server al evento EmailVerified de User
+            user.EmailVerified += server.OnEmailVerified;
             // Controla la ejecucion mientras el usuario no quiera salir
             bool exec = true;
             while (exec)

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Carlo/Desktop/laboratorio-05-PastedBud/Lab5CarloVitali/Solucion_Lab_21_abril/Solucion_Lab_21_abril.csproj",
-      "projectName": "Solucion_Lab_21_abril",
-      "projectPath": "/Users/Carlo/Desktop/laboratorio-05-PastedBud/Lab5CarloVitali/Solucion_Lab_21_abril/Solucion_Lab_21_abril.csproj",
+      "projectUniqueName": "/Users/Carlo/Desktop/laboratorio-05-PastedBud/Lab5CarloVitali/Lab05CarloVitali/Lab05CarloVitali.csproj",
+      "projectName": "Lab05CarloVitali",
+      "projectPath": "/Users/Carlo/Desktop/laboratorio-05-PastedBud/Lab5CarloVitali/Lab05CarloVitali/Lab05CarloVitali.csproj",
       "packagesPath": "/Users/Carlo/.nuget/packages/",
-      "outputPath": "/Users/Carlo/Desktop/laboratorio-05-PastedBud/Lab5CarloVitali/Solucion_Lab_21_abril/obj/",
+      "outputPath": "/Users/Carlo/Desktop/laboratorio-05-PastedBud/Lab5CarloVitali/Lab05CarloVitali/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Carlo/.config/NuGet/NuGet.Config"

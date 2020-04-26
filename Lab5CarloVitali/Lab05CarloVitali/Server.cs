@@ -24,6 +24,7 @@ namespace Solucion_Lab_21_abril
             }
         }
 
+
         // Paso 1: Creamos el delegate para el evento del cambio de contrasena
         public delegate void ChangePasswordEventHandler(object source, ChangePasswordEventArgs args);
         // Paso 2: Creamos el evento que se engatilla cuando se cambia la contrasena
@@ -119,6 +120,12 @@ namespace Solucion_Lab_21_abril
                 result += rndom;
             }
             return "http://pluscorporation.com/verificar-correo.php?=" + usr + "_" + result;
+        }
+
+        // Metodo que muestra un breve mensaje en el que se diga que se verifico correctamente el correo
+        public void OnEmailVerified(object source, EventArgs e)
+        {
+            Console.WriteLine("MailService: Se ha enviado un email al correo indicado para Verificar su correo");
         }
 
     }
